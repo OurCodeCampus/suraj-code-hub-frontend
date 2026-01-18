@@ -1,0 +1,17 @@
+/*----------------=theme customized=----------------*/
+:root {
+    --bg-clr: #01040a;
+    --bg-s-clr: #0d1117;
+    --bg-th-clr: #151c24;
+    --main-clr: #238737;
+    --second-clr: #4391f7;
+    --primary-light-clr: #f0f6fc;
+    --secondary-light-clr: #ddd;
+    --secondary-clr: #9198a1;
+    --bdr-clr: #22272f;
+}
+
+/*-----------scrollbar styled------------*/
+::-webkit-scrollbar {
+    width: 0.625rem;
+}

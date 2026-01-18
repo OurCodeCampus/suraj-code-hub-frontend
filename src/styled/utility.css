@@ -1,0 +1,23 @@
+/*======= utility classes===========*/
+
+.container {
+    max-width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    -webkit-border-radius: 0.8rem;
+    -moz-border-radius: 0.8rem;
+    -ms-border-radius: 0.8rem;
+    -o-border-radius: 0.8rem;
+}
+
+a {
+    text-decoration: none;
+}
